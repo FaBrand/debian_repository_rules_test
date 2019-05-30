@@ -36,6 +36,7 @@ debian_archive(
     urls = {
         "http://launchpadlibrarian.net/365645427/python2.7-minimal_2.7.15~rc1-1_amd64.deb": "018cf986dbd030a175bfc27cda1a98416a713d247abf5696e528314e8cfb948d",
         "http://launchpadlibrarian.net/412143380/libpython2.7-minimal_2.7.15-4ubuntu4~18.04_amd64.deb": "32861db45d9af6b5db8378ddbbc767dd9a7ff1274915def9ba44dab360bba352",
+        "http://launchpadlibrarian.net/412143382/libpython2.7-stdlib_2.7.15-4ubuntu4~18.04_amd64.deb": "9eec69d84e3b04e4bc965346c43aaba2bcd36cfdd3133f8540ee535c59421af8",
     },
 )
 
